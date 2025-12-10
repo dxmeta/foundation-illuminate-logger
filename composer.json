@@ -1,9 +1,9 @@
 {
     "name": "dxmeta/foundation-illuminate-logger",
-    "homepage": "http://gitlab.hzsunong.cn/composer/foundation-illuminate-logger",
+    "homepage": "https://github.com/dxmeta/foundation-illuminate-logger",
     "description": "Laravel LogWriter for 5.2 ~ 5.5, LogManager for 5.6 or newer.",
     "keywords": ["logger", "laravel"],
-    "license": "private",
+    "license": "MIT",
     "authors": [
         {
             "name": "goujinyang",
